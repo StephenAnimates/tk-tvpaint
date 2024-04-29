@@ -4,7 +4,7 @@
 The Flow Production Tracking Toolkit Default Configuration
 -------------------------------------------------------------------------
 
-Welcome to the Flow Production Tracking Toolkit default configuration!
+This is based on the Flow Production Tracking (ShotGrid) Toolkit default configuration!
 
 For more information, go to the following url:
 https://developer.shotgridsoftware.com/8085533c/?title=ShotGrid+Integrations+Admin+Guide
