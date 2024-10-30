@@ -7,7 +7,6 @@ core/pipeline_configuration.yml
 core/shotgun.yml
 tk-metadata
 
-
 # compiled python files
 *.py[co]
 
