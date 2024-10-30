@@ -31,5 +31,4 @@ To use tk-config-to paint, follow these steps:
  - sgtk:descriptor:github_release?repository=tk-config-tvpaint
 5. Launch Flow Production Tracking Desktop (Shotgun app)
 6. Choose a project
-7. Click the arrow in the top right and choose the new configuration
-   
+7. Click the **arrow** in the top right and choose the new configuration
