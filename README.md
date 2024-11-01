@@ -8,8 +8,7 @@ This repository is intended as a Flow Production Tracking Toolkit for TVPaint An
 The project is based on the Flow Production Tracking Toolkit default configuration
 which provides TVPaint interoperability with Flow Production Tracking (ShotGrid).
 
-The TVPaint engine is a fork of the tk-config-default2 with some workflows specific for working with Flow
-Production Tracking Toolkit with TVPaint
+The TVPaint engine is a fork of the tk-config-default2 with some workflows specific for working with Flow Production Tracking Toolkit with TVPaint
 
 [![Build Status](https://dev.azure.com/shotgun-ecosystem/Toolkit/_apis/build/status/Configs/tk-config-default2?branchName=master)](https://dev.azure.com/shotgun-ecosystem/Toolkit/_build/latest?definitionId=49&branchName=master)
 
