@@ -29,7 +29,7 @@ To use tk-config-to paint, follow these steps:
 3. In the **Create a new Pipeline Configuration**, enter "tk-config-tvpaint" as the Pipeline Configuration Name
 4. Set the **Plugin Ids** field to "basic.*"
 5. Set the **Descriptor** field to match the desired version of the configuration:
- - sgtk:descriptor:github_release?repository=tk-config-tvpaint&version=v0.1.1
+sgtk:descriptor:github_release?repository=tk-config-tvpaint&version=v0.1.1
 8. If needed, in the **Project** entry, add a specific project that the confirutaion will apply, all others will be ignored - no entry will make the configuration apply to all projects
 9. Click the **Create Pipeline Configuration** button
 10. Launch the Flow Production Tracking Desktop (Shotgun app)
