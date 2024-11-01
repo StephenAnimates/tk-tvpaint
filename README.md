@@ -20,7 +20,7 @@ https://help.autodesk.com/view/SGDEV/ENU/?guid=SGD_pg_integrations_admin_guides_
 
 -------------------------------------------------------------------------
 
-To use tk-config-to paint, follow these steps:
+To use tk-config-tvpaint, follow these steps:
 
 1. In the **Flow Production Tracking** site, click the Avatar icon (top right) and select Default Layouts > Pipeline Configuration > Pipeline Configuration List
 1. Click the **Add Pipeline Configuration** button to create a new configuration
