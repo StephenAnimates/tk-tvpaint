@@ -24,11 +24,14 @@ https://help.autodesk.com/view/SGDEV/ENU/?guid=SGD_pg_integrations_admin_guides_
 
 To use tk-config-to paint, follow these steps:
 
-1. In the Flow Production Tracking site, click the Avatar icon (top right) and select Default Layouts > Pipeline Configuration > Pipeline Configuration List
-2. Click the Add Pipeline Configuration to create a new configuration
-3. Set the **Plugin Ids** field to "basic.*"
-4. Set the **Descriptor** field to match the desired version of the configuration
- - sgtk:descriptor:github_release?repository=tk-config-tvpaint
-5. Launch Flow Production Tracking Desktop (Shotgun app)
-6. Choose a project
-7. Click the **arrow** in the top right and choose the new configuration
+1. In the **Flow Production Tracking** site, click the Avatar icon (top right) and select Default Layouts > Pipeline Configuration > Pipeline Configuration List
+2. Click the **Add Pipeline Configuration** button to create a new configuration
+3. In the **Create a new Pipeline Configuration**, enter "tk-config-tvpaint" as the Pipeline Configuration Name
+4. Set the **Plugin Ids** field to "basic.*"
+5. Set the **Descriptor** field to match the desired version of the configuration:
+ - sgtk:descriptor:github_release?repository=tk-config-tvpaint&version=v0.1.1
+8. If needed, in the **Project** entry, add a specific project that the confirutaion will apply, all others will be ignored - no entry will make the configuration apply to all projects
+9. Click the **Create Pipeline Configuration** button
+10. Launch the Flow Production Tracking Desktop (Shotgun app)
+11. Choose a project which has been assigned to the configuration
+12. Click the **Arrow** in the top right and choose the **new configuration**

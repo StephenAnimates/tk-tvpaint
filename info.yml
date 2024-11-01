@@ -8,12 +8,26 @@
 # agreement to the Shotgun Pipeline Toolkit Source Code License. All rights
 # not expressly granted therein are reserved by Shotgun Software Inc.
 
-# Metadata defining the behaviour and requirements for this configuration
+# Metadata defining the behaviour and requirements for this engine
+
+# expected fields in the configuration file for this engine
+configuration:
+
+# this app works in all engines - it does not contain
+# any host application specific commands
+supported_engines:
+
+# the ShotGrid fields that this engine needs in order to operate correctly
+requires_shotgun_fields:
 
 # More verbose description of this item
-display_name: "Default Config"
-description: "A VFX Example Config and our default configuration."
+display_name: "TVPaint Pipeline Toolkit"
+description: "Creating a TVPaint Pipeline Toolkit for ShotGrid"
 
 # Required minimum versions for this item to run
 requires_shotgun_version: "v7.2.0"
-requires_core_version: "v0.19.18"
+requires_core_version: "v0.21.1"
+requires_engine_version: 
+
+# the frameworks required to run this app
+frameworks: 
